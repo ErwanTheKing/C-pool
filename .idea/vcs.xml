@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BSmini-printf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day06" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day09" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/finalstumper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mini-printf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rush1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rush2" vcs="Git" />
+  </component>
+</project>
